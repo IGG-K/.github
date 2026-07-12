@@ -2,6 +2,9 @@
 
 ![Indie Games Group Korea의 공식 브랜드 이미지: 인디게임 개발자에게 필요한 연결을 만듭니다][hero-image]
 
+[![IGG-K Discord 참여][discord-badge]][discord]
+[![support@iggk.net으로 문의][contact-badge]][email]
+
 > Indie Games Group Korea (IGG-K)는 글로벌 Indie Games Group의
 > 한국 챕터이며, Google Play의 후원을 받습니다.
 
@@ -9,9 +12,6 @@
 
 IGG-K는 개발자들이 Discord와 행사에서 동료를 만나고, 게임을 소개하고,
 업계와 해외 기회를 찾도록 돕습니다.
-
-[![IGG-K Discord 참여][discord-badge]][discord]
-[![support@iggk.net으로 문의][contact-badge]][email]
 
 ## 누구를 위한 커뮤니티인가요?
 
